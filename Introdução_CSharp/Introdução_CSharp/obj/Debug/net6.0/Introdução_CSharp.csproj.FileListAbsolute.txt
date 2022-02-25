@@ -1,0 +1,15 @@
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\bin\Debug\net6.0\Introdução_CSharp.exe
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\bin\Debug\net6.0\Introdução_CSharp.deps.json
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\bin\Debug\net6.0\Introdução_CSharp.runtimeconfig.json
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\bin\Debug\net6.0\Introdução_CSharp.dll
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\bin\Debug\net6.0\ref\Introdução_CSharp.dll
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\bin\Debug\net6.0\Introdução_CSharp.pdb
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.csproj.AssemblyReference.cache
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.AssemblyInfoInputs.cache
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.AssemblyInfo.cs
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.csproj.CoreCompileInputs.cache
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.dll
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\ref\Introdução_CSharp.dll
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.pdb
+C:\Meu Código\Introdução_CSharp\Introdução_CSharp\obj\Debug\net6.0\Introdução_CSharp.genruntimeconfig.cache
